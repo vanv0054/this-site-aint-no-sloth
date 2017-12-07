@@ -6,3 +6,32 @@
 figcaption {
   color: #fff;
 }
+
+footer {
+  text-decoration: underline;
+}
+
+a {
+  color: #000;
+}
+
+article {
+  background-color: #fff;
+}
+
+body {
+  background-color: #fff;
+}
+
+@media only screen and (min-width: 38em) {
+
+  body {
+    background-color: #bea586;
+    background-image: url(".../images/sloth.svg");
+  }
+
+  article {
+    background-color: #fff;
+  }
+
+}
