@@ -20,7 +20,7 @@ a {
   color: #000;
 }
 
-article {
+main {
   background-color: #fff;
 }
 
@@ -35,7 +35,7 @@ body {
     background-image: url("../images/sloth.svg");
   }
 
-  article {
+  main {
     background-color: #fff;
   }
 
