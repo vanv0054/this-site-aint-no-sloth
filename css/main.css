@@ -33,6 +33,7 @@ body {
   body {
     background-color: #bea586;
     background-image: url("../images/sloth.svg");
+    background-size: 48px;
   }
 
   main {
