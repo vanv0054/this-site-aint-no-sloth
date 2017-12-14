@@ -1,6 +1,8 @@
 .top {
   border-top: solid 2px #000;
   border-bottom: solid 2px #000;
+  background-image: linear-gradient(to bottom, rgba(28, 14, 0, .8), rgba(28, 14, 0, .3), rgba(28, 14, 0, .3), rgba(28, 14, 0, .3)), url("../images/sloth-top.jpg");
+  background-size: cover;
 }
 
 .middle {
