@@ -431,17 +431,11 @@ a:focus, [tabindex="0"]:focus {
     page-break-before: avoid;
   }
 
-  img {
-    page-break-after: auto;
-    page-break-before: auto;
-    page-break-inside: avoid;
-  }
-
   *, *::before, *::after, *::first-letter, *::first-line {
-    background: none transparent !important;
-    color: #000 !important;
-    box-shadow: none !important;
-    text-shadow: none !important;
+    background: none transparent;
+    color: #000;
+    box-shadow: none;
+    text-shadow: none;
   }
 
   /* stylelint-enable */
