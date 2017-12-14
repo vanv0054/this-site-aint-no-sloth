@@ -373,7 +373,7 @@ ol > li::before {
 /* stylelint-disable no-descending-specificity */
 
 
-a:hover, a:active {
+a, a:hover, a:active {
   outline: none;
 }
 
