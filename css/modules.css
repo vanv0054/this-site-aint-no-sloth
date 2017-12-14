@@ -437,24 +437,6 @@ a:focus, [tabindex="0"]:focus {
     page-break-inside: avoid;
   }
 
-  /* stylelint-disable declaration-no-important */
-
-  pre {
-    white-space: pre-wrap !important;
-    word-wrap: break-word;
-  }
-
-  /* stylelint-enable */
-
-  /* End Gutenberg code */
-
-  /*
-   * (c) HTML5 Boilerplate || MIT License
-   *     https://html5boilerplate.com/
-   */
-
-  /* stylelint-disable declaration-no-important */
-
   *, *::before, *::after, *::first-letter, *::first-line {
     background: none transparent !important;
     color: #000 !important;
@@ -487,5 +469,4 @@ a:focus, [tabindex="0"]:focus {
     display: table-header-group;
   }
 
-  /* End HTML5 Boilerplate code */
 }
