@@ -11,8 +11,8 @@ figcaption {
 }
 
 .bord {
-  border-top: solid 2px #000;
-  border-bottom: solid 2px #000;
+  border-top: solid 2px #363535;
+  border-bottom: solid 2px #363535;
   padding: 3px 0;
 }
 
@@ -23,13 +23,13 @@ figcaption {
 }
 
 .middle {
-  border-top: solid 2px #000;
-  border-bottom: solid 2px #000;
+  border-top: solid 2px #363535;
+  border-bottom: solid 2px #363535;
 }
 
 .bottom {
-  border-top: solid 2px #000;
-  border-bottom: solid 2px #000;
+  border-top: solid 2px #363535;
+  border-bottom: solid 2px #363535;
 }
 
 h1 {
